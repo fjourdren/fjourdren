@@ -1,0 +1,21 @@
+name: GitHub profile summary cards workflow
+on:
+  # Schedule daily updates
+  schedule: [{ cron: "0 0 * * *" }]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: { branches: ["master", "main"] }
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env: # default use ${{ secrets.SUMMARY_CARDS_GITHUB_TOKEN }}, you should replace with your personal access token (https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial)
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 1

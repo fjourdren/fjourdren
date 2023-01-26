@@ -1,0 +1,38 @@
+name: Generate Github stats picture workflow
+on:
+  # Schedule daily updates
+  schedule: [{ cron: "0 0 * * *" }]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: { branches: ["master", "main"] }
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ github.token }}
+          base: ""
+          config_display: large
+          config_order: "notable, lines, reaction, stars, leetcode"
+          filename: "imgs/github-metrics.*"
+          # plugin_isocalendar: yes
+          # plugin_isocalendar_duration: full-year
+          # plugin_languages: yes
+          # plugin_languages_indepth: yes
+          # plugin_languages_recent_days: 730
+          plugin_lines: yes
+          plugin_notable: yes
+          # plugin_topics: yes
+          # plugin_topics_mode: icons
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          plugin_leetcode: yes
+          plugin_leetcode_user: 456789
+          plugin_leetcode_sections: solved, skills
+          plugin_reactions: yes
+          plugin_reactions_limit: 100
+          plugin_reactions_details: percentage
