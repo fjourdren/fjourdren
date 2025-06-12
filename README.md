@@ -27,25 +27,25 @@
 ## 🛠️ Technical Expertise
 
 ### **Frontend Development**
-- **React.js** & **Next.js** - Modern, responsive web applications
-- **TypeScript** & **JavaScript** - Type-safe, maintainable code
-- **HTML5** & **CSS** - Semantic markup and modern styling
+- **React.js & Next.js** - Modern, responsive web applications
+- **TypeScript & JavaScript** - Type-safe, maintainable code
+- **HTML5 & CSS** - Semantic markup and modern styling
 
 ### **Backend Development**
 - **Node.js** - High-performance server-side applications
-- **Java** & **Spring** - Enterprise-grade backend services
-- **Python** & **Go** - Versatile backend solutions
+- **Java & Spring** - Enterprise-grade backend services and batches
+- **Python & Go** - Versatile backend solutions
 - **REST APIs** - Clean, well-documented API design
 
 ### **Database & Storage**
-- **Oracle** & **PostgreSQL** - Relational database management
+- **Oracle & PostgreSQL** - Relational database management
 - **MongoDB** - NoSQL solutions for flexible data models
 - **Redis** - High-performance caching and session management
 
 ### **Cloud & DevOps**
-- **Docker** & **Kubernetes** - Containerization and orchestration
+- **Docker & Kubernetes** - Containerization and orchestration
 - **Helm** - Kubernetes package management
-- **GitLab CI/CD** & **Jenkins** - Automated deployment pipelines
+- **GitLab CI/CD & Jenkins** - Automated deployment pipelines
 - **Google Cloud Platform (GCP)** - Cloud infrastructure and services
 
 <br/>
