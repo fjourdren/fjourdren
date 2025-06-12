@@ -19,7 +19,7 @@
 
 ### Key Strengths
 - **Full-Stack Expertise**: End-to-end development from frontend to backend infrastructure
-- **Cloud-Native Solutions**: Extensive experience with Docker, Kubernetes, and GCP
+- **Cloud-Native Solutions**: Extensive experience with Docker and Kubernetes
 - **Performance Optimization**: Proven track record of building high-traffic, scalable systems
 - **Legacy Modernization**: Successfully refactoring and modernizing existing codebases
 - **DevOps & CI/CD**: Streamlining development workflows and deployment processes
@@ -46,7 +46,6 @@
 - **Docker & Kubernetes** - Containerization and orchestration
 - **Helm** - Kubernetes package management
 - **GitLab CI/CD & Jenkins** - Automated deployment pipelines
-- **Google Cloud Platform (GCP)** - Cloud infrastructure and services
 
 <br/>
 <p align="center">Learn more about my experience on <a href="https://www.linkedin.com/in/flavien-jourdren/">LinkedIn</a>.</p>
