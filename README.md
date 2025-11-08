@@ -131,7 +131,7 @@ I (try) maintaining a technical blog focused on **software engineering best prac
 
 <ul>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/jamesgeorge007/github-activity-readme/issues/46) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 💪 Opened PR [#1](undefined) in [fjourdren/VPS-Setup-Ansible](https://github.com/fjourdren/VPS-Setup-Ansible)
 <!--END_SECTION:activity-->
 </ul>
 
