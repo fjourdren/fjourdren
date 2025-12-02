@@ -5,21 +5,10 @@
 
 <p align="center">
   <picture>
-    <img
-      src="profile-summary-card-output/github/0-profile-details.svg"
-      width="700"
-      alt="GitHub profile details"
-    />
+    <img src="profile-summary-card-output/github/0-profile-details.svg" width="350" />
   </picture>
-</p>
-
-<p align="center">
   <picture>
-    <img
-      src="profile-3d-contrib/profile-season-animate.svg"
-      width="700"
-      alt="3D contribution graph"
-    />
+    <img src="profile-3d-contrib/profile-season-animate.svg" width="350" />
   </picture>
 </p>
 
