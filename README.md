@@ -3,18 +3,20 @@
 
 <h1 align="center">Flavien Jourdren | Software Engineer<picture><img src="imgs/wave.gif" width="30px"></picture></h1>
 
+<div align="center">
+  <picture>
+    <img width="25%" height="auto" src="profile-summary-card-output/github/3-stats.svg"/>
+  </picture>
+</div>
+
+<br/>
+
 <!-- Connect with me -->
 <p align="center">
 <a href="https://www.linkedin.com/in/flavien-jourdren/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://github.com/fjourdren"><img alt="Github" src="https://img.shields.io/badge/-Github-000.svg?style=for-the-badge&logo=Github&logoColor=white"></a>&nbsp;
 <a href="https://fjourdren.com"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ffjourdren.com%2F"></a>&nbsp;
 </p>
-
-<div align="center">
-  <picture>
-    <img width="25%" height="auto" src="profile-summary-card-output/github/3-stats.svg"/>
-  </picture>
-</div>
 
 ## 🎯 Professional Summary
 
