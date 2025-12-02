@@ -17,56 +17,17 @@
 
 ## 🎯 Professional Summary
 
-**Experienced Software Engineer** specializing in **full-stack development**, **cloud architecture**, and **enterprise solutions**. Based in Brest, France, I transform complex business requirements into scalable, high-performance applications with a focus on **clean code**, **robust architecture**, and **user experience**.
+Software Engineer with a **product and systems architecture mindset**. I focus on maintainable system design that **scales sustainably** and **supports automated delivery**, while keeping a pragmatic view on business constraints and system evolution.
 
-### Key Strengths
-- **Full-Stack Expertise**: End-to-end development from frontend to backend infrastructure
-- **Cloud-Native Solutions**: Extensive experience with Docker and Kubernetes
-- **Performance Optimization**: Proven track record of building high-traffic, scalable systems
-- **Legacy Modernization**: Successfully refactoring and modernizing existing codebases
-- **DevOps & CI/CD**: Streamlining development workflows and deployment processes
+### 🧩 Key Competencies & Strengths
 
-## 🛠️ Technical Expertise
-
-### **Frontend Development**
-- **React.js & Next.js** - Modern, responsive web applications
-- **TypeScript & JavaScript** - Type-safe, maintainable code
-- **HTML5 & CSS** - Semantic markup and modern styling
-
-### **Backend Development**
-- **Node.js** - High-performance server-side applications
-- **Java & Spring** - Enterprise-grade backend services and batches
-- **Python & Go** - Versatile backend solutions
-- **REST APIs** - Clean, well-documented API design
-
-### **Database & Storage**
-- **Oracle & PostgreSQL** - Relational database management
-- **MongoDB** - NoSQL solutions for flexible data models
-- **Redis** - High-performance caching and session management
-
-### **Cloud & DevOps**
-- **Docker & Kubernetes** - Containerization and orchestration
-- **Helm** - Kubernetes package management
-- **GitLab CI/CD & Jenkins** - Automated deployment pipelines
-
-<br/>
-<p align="center">Learn more about my experience on <a href="https://www.linkedin.com/in/flavien-jourdren/">LinkedIn</a>.</p>
-
-## 🏗️ Professional Experience
-
-### **Core Competencies**
-- **System Architecture**: Designing scalable, maintainable software systems
-- **Data Structures & Algorithms**: Optimizing performance and efficiency
-- **Domain Modeling**: Translating business logic into clean, testable code
-- **Code Quality**: Writing maintainable, well-documented, and tested code
-- **Security Best Practices**: Implementing enterprise-grade security measures
-
-### **Project Highlights**
-- **Full-Stack Applications**: Complete web applications with modern tech stacks
-- **Microservices Architecture**: Distributed systems with clear service boundaries
-- **Legacy System Integration**: Modernizing existing systems while maintaining functionality
-- **Cloud Migration**: Moving applications to cloud infrastructure
-- **CI/CD & Automation**: Streamlining development workflows and deployment processes
+- **Architecture & Distributed Systems**: microservices,  API contracts, event-driven design
+- **Core Technologies**: `Java`, `TypeScript`, `JavaScript`, `Next.js`, `Kubernetes`
+- **Modern Infrastructure Practices**: containers, orchestration, GitOps mindset, CI/CD pipelines
+- **Business Analyst Mindset**: bridging product needs with architecture decisions, modeling complex domains
+- **Legacy System Exploration**: reverse engineering complex codebases, designing modernization paths with minimal disruption
+- **Engineering Quality**: testing, documentation, maintainability, technical clarity
+- **Technical Leadership**: system design decisions, team leading
 
 ## 🚀 Featured Projects
 
@@ -102,11 +63,9 @@ I (try) maintaining a technical blog focused on **software engineering best prac
 - [Rappel sur la répartition de charge](https://fjourdren.com/rappel-sur-la-repartition-de-charge)
 - [Installation de Jenkins](https://fjourdren.com/installation-de-jenkins)
 
-📖 **Read more at:** [fjourdren.com](https://fjourdren.com)
+📖 **Read more :** [fjourdren.com](https://fjourdren.com)
 
 ## 📫 Let's Connect
-
-I'm always interested in connecting with **fellow developers**, **tech leaders**, and **innovative companies**. Whether you want to discuss potential opportunities, collaborate on projects, or exchange ideas about emerging technologies, I'd love to hear from you!
 
 **Preferred Contact Methods:**
 - **LinkedIn**: [flavien-jourdren](https://www.linkedin.com/in/flavien-jourdren/)
