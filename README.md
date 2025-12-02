@@ -3,17 +3,25 @@
 
 <h1 align="center">Flavien Jourdren | Software Engineer<picture><img src="imgs/wave.gif" width="30px"></picture></h1>
 
-<div align="center" style="margin-bottom:40px">
+<p align="center">
   <picture>
-    <img width="100%" style="max-width:500px;height:auto" src="profile-summary-card-output/github/0-profile-details.svg"/>
+    <img
+      src="profile-summary-card-output/github/0-profile-details.svg"
+      width="700"
+      alt="GitHub profile details"
+    />
   </picture>
-</div>
+</p>
 
-<div align="center" style="margin-bottom:40px">
+<p align="center">
   <picture>
-    <img width="100%" style="max-width:500px;height:auto" src="profile-3d-contrib/profile-season-animate.svg"/>
+    <img
+      src="profile-3d-contrib/profile-season-animate.svg"
+      width="700"
+      alt="3D contribution graph"
+    />
   </picture>
-</div>
+</p>
 
 <!-- Connect with me -->
 <p align="center">
@@ -110,18 +118,6 @@ I (try) maintaining a technical blog focused on **software engineering best prac
 - [Installation de Jenkins](https://fjourdren.com/installation-de-jenkins)
 
 📖 **Read more at:** [fjourdren.com](https://fjourdren.com)
-
-
-<!-- Statistics -->
-<h2>📊 GitHub Analytics & Contributions</h2>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <img width="80%" height="auto" src="imgs/github-metrics.svg"/>
-  </picture>
-</div>
 
 ## 📫 Let's Connect
 
