@@ -3,9 +3,15 @@
 
 <h1 align="center">Flavien Jourdren | Software Engineer<picture><img src="imgs/wave.gif" width="30px"></picture></h1>
 
-<div align="center">
+<div align="center" style="margin-bottom: 40px">
   <picture>
-    <img width="25%" height="auto" src="profile-summary-card-output/github/3-stats.svg"/>
+    <img width="80%" height="auto" src="profile-summary-card-output/github/0-profile-details.svg"/>
+  </picture>
+</div>
+<br/>
+<div align="center" style="margin-bottom: 40px">
+  <picture>
+    <img width="80%" height="auto" src="profile-3d-contrib/profile-season-animate.svg"/>
   </picture>
 </div>
 <br/>
@@ -109,19 +115,6 @@ I (try) maintaining a technical blog focused on **software engineering best prac
 
 <!-- Statistics -->
 <h2>📊 GitHub Analytics & Contributions</h2>
-<div align="center" style="margin-bottom: 40px">
-  <picture>
-    <img width="80%" height="auto" src="profile-summary-card-output/github/0-profile-details.svg"/>
-  </picture>
-</div>
-
-<br/>
-
-<div align="center" style="margin-bottom: 40px">
-  <picture>
-    <img width="80%" height="auto" src="profile-3d-contrib/profile-season-animate.svg"/>
-  </picture>
-</div>
 
 <br/>
 
