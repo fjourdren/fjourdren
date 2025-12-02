@@ -103,10 +103,8 @@ I (try) maintaining a technical blog focused on **software engineering best prac
 <!-- Statistics -->
 <h2>📊 GitHub Analytics & Contributions</h2>
 <picture>
-<img width="100%" height="auto" src="profile-summary-card-output/nord_dark/0-profile-details.svg"/>
+<img width="100%" height="auto" src="profile-summary-card-output/github/0-profile-details.svg"/>
 </picture>
-
-<picture><img width="33%" height="auto" src="profile-summary-card-output/nord_dark/3-stats.svg"/></picture><picture><img width="33%" height="auto" src="profile-summary-card-output/nord_dark/1-repos-per-language.svg"/></picture><picture><img width="33%" height="auto" src="profile-summary-card-output/nord_dark/4-productive-time.svg"/></picture>
 
 <br/>
 
