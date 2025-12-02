@@ -5,11 +5,8 @@
 
 <!-- Connect with me -->
 <p align="center">
-<a href="https://twitter.com/fjourdren" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>&nbsp;
 <a href="https://www.linkedin.com/in/flavien-jourdren/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://github.com/fjourdren"><img alt="Github" src="https://img.shields.io/badge/-Github-000.svg?style=for-the-badge&logo=Github&logoColor=white"></a>&nbsp;
-<a href="https://leetcode.com/456789/"><img alt="Leetcode" src="https://img.shields.io/badge/-Leetcode-%23FFA116.svg?style=for-the-badge&logo=Leetcode&logoColor=white"></a>&nbsp;
-<!--<a href=""><img alt="Medium" src="https://img.shields.io/badge/-Medium-%2312100E.svg?style=for-the-badge&logo=Medium&logoColor=white"></a>&nbsp;-->
 <a href="https://fjourdren.com"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ffjourdren.com%2F"></a>&nbsp;
 </p>
 
