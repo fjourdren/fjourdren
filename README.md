@@ -10,6 +10,8 @@
 <a href="https://fjourdren.com"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ffjourdren.com%2F"></a>&nbsp;
 </p>
 
+<picture><img width="33%" height="auto" src="profile-summary-card-output/github/3-stats.svg"/></picture>
+
 ## 🎯 Professional Summary
 
 **Experienced Software Engineer** specializing in **full-stack development**, **cloud architecture**, and **enterprise solutions**. Based in Brest, France, I transform complex business requirements into scalable, high-performance applications with a focus on **clean code**, **robust architecture**, and **user experience**.
