@@ -19,18 +19,6 @@
 
 Software Engineer with a **product and systems architecture mindset**. I focus on maintainable system design that **scales sustainably** and **supports automated delivery**, while keeping a pragmatic view on business constraints and system evolution.
 
-### 🧩 Key Competencies & Strengths
-
-- **Architecture & Distributed Systems**: microservices,  API contracts, event-driven design
-- **Core Technologies**: `Java`, `TypeScript`, `JavaScript`, `Next.js`, `Kubernetes`
-- **Modern Infrastructure Practices**: containers, orchestration, GitOps mindset, CI/CD pipelines
-- **Business Analyst Mindset**: bridging product needs with architecture decisions, modeling complex domains
-- **Legacy System Exploration**: reverse engineering complex codebases, designing modernization paths with minimal disruption
-- **Engineering Quality**: testing, documentation, maintainability, technical clarity
-- **Technical Leadership**: system design decisions, team leading
-
-## 🚀 Featured Projects
-
 <table align="center">
   <thead align="center">
       <tr border: none;>
@@ -51,6 +39,16 @@ Software Engineer with a **product and systems architecture mindset**. I focus o
       </tr>
   </tbody>
 </table>
+
+### 🧩 Key Competencies & Strengths
+
+- **Architecture & Distributed Systems**: microservices,  API contracts, event-driven design
+- **Core Technologies**: `Java`, `TypeScript`, `JavaScript`, `Next.js`, `Kubernetes`
+- **Modern Infrastructure Practices**: containers, orchestration, GitOps mindset, CI/CD pipelines
+- **Business Analyst Mindset**: bridging product needs with architecture decisions, modeling complex domains
+- **Legacy System Exploration**: reverse engineering complex codebases, designing modernization paths with minimal disruption
+- **Engineering Quality**: testing, documentation, maintainability, technical clarity
+- **Technical Leadership**: system design decisions, team leading
 
 ## 📝 Knowledge Sharing
 
