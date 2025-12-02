@@ -12,7 +12,7 @@
 
 <div align="center">
   <img src="profile-summary-card-output/github/0-profile-details.svg" width="70%" />
-  <img src="profile-3d-contrib/profile-season-animate.svg" width="60%" />
+  <img src="imgs/github-calendar.svg" width="60%" />
 </div>
 
 ## 🎯 Professional Summary
