@@ -123,11 +123,11 @@ I (try) maintaining a technical blog focused on **software engineering best prac
 
 <br/>
 
-<p align="center">
-<picture>
-<img width="80%" height="auto" src="imgs/github-metrics.svg"/>
-</picture>
-</p>
+<div align="center">
+  <picture>
+    <img width="50%" height="auto" src="imgs/github-metrics.svg"/>
+  </picture>
+</div>
 
 ## ⚡ Recent Activity
 
