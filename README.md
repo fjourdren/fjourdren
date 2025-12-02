@@ -131,7 +131,7 @@ I (try) maintaining a technical blog focused on **software engineering best prac
 
 <ul>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [fjourdren/VPS-Setup-Ansible](https://github.com/fjourdren/VPS-Setup-Ansible)
+1. ❌ Merged PR [#1](undefined) in [fjourdren/VPS-Setup-Ansible](https://github.com/fjourdren/VPS-Setup-Ansible)
 <!--END_SECTION:activity-->
 </ul>
 
