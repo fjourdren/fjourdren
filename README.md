@@ -1,16 +1,7 @@
 <!-- header -->
-<picture><img src="imgs/top.svg"/></picture>
+<picture><img width="100%" src="imgs/top.svg"/></picture>
 
 <h1 align="center">Flavien Jourdren | Software Engineer<picture><img src="imgs/wave.gif" width="30px"></picture></h1>
-
-<p align="center">
-  <picture>
-    <img src="profile-summary-card-output/github/0-profile-details.svg" width="350" />
-  </picture>
-  <picture>
-    <img src="profile-3d-contrib/profile-season-animate.svg" width="350" />
-  </picture>
-</p>
 
 <!-- Connect with me -->
 <p align="center">
@@ -18,6 +9,11 @@
 <a href="https://github.com/fjourdren"><img alt="Github" src="https://img.shields.io/badge/-Github-000.svg?style=for-the-badge&logo=Github&logoColor=white"></a>&nbsp;
 <a href="https://fjourdren.com"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ffjourdren.com%2F"></a>&nbsp;
 </p>
+
+<div align="center">
+  <img src="profile-summary-card-output/github/0-profile-details.svg" width="70%" />
+  <img src="profile-3d-contrib/profile-season-animate.svg" width="60%" />
+</div>
 
 ## 🎯 Professional Summary
 
@@ -95,7 +91,7 @@
   </tbody>
 </table>
 
-## 📝 Technical Writing & Knowledge Sharing
+## 📝 Knowledge Sharing
 
 I (try) maintaining a technical blog focused on **software engineering best practices**, **system design patterns**, and **emerging technologies**. My articles provide practical insights into real-world challenges and architectural decisions.
 
@@ -121,6 +117,8 @@ I'm always interested in connecting with **fellow developers**, **tech leaders**
 <!-- footer -->
 <h3 align="center">Interested in my work? Star ⭐ the repositories that catch your attention!</h3>
 <p align="center">
-<picture><img src="https://komarev.com/ghpvc/?username=fjourdren&style=flat"/></picture>
-</p><picture>
-<img alt="" src="imgs/bottom.svg"/></picture>
+  <picture><img src="https://komarev.com/ghpvc/?username=fjourdren&style=flat"/></picture>
+</p>
+<picture>
+  <img width="100%" alt="" src="imgs/bottom.svg"/>
+</picture>
