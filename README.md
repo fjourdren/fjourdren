@@ -9,7 +9,6 @@
   </picture>
 </div>
 
-<br/>
 
 <!-- Connect with me -->
 <p align="center">
