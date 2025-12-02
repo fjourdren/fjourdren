@@ -73,24 +73,24 @@
 ## 🚀 Featured Projects
 
 <table align="center">
-<thead align="center">
-    <tr border: none;>
-    <td><b>🚀 Project</b></td>
-    <td><b>⭐ Stars</b></td>
-    <td><b>📚 Forks</b></td>
-    <td><b>🛎 Issues</b></td>
-    <td><b>📬 Pull Requests</b></td>
-    </tr>
-</thead>
-<tbody>
-    <tr>
-    <td><a href="https://github.com/fjourdren/Theatrum"><b>CyberDoc</b></a></td>
-    <td><picture><img alt="Stars" src="https://img.shields.io/github/stars/fjourdren/Theatrum?style=flat-square&labelColor=343b41"/></picture></td>
-    <td><picture><img alt="Forks" src="https://img.shields.io/github/forks/fjourdren/Theatrum?style=flat-square&labelColor=343b41"/></picture></td>
-    <td><picture><img alt="Issues" src="https://img.shields.io/github/issues/fjourdren/Theatrum?style=flat-square&labelColor=343b41"/></picture></td>
-    <td><picture><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/fjourdren/Theatrum?style=flat-square&labelColor=343b41"/></picture></td>
-    </tr>
-</tbody>
+  <thead align="center">
+      <tr border: none;>
+      <td><b>🚀 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull Requests</b></td>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+      <td><a href="https://github.com/fjourdren/Theatrum"><b>Theatrum</b></a></td>
+      <td><picture><img alt="Stars" src="https://img.shields.io/github/stars/fjourdren/Theatrum?style=flat-square&labelColor=343b41"/></picture></td>
+      <td><picture><img alt="Forks" src="https://img.shields.io/github/forks/fjourdren/Theatrum?style=flat-square&labelColor=343b41"/></picture></td>
+      <td><picture><img alt="Issues" src="https://img.shields.io/github/issues/fjourdren/Theatrum?style=flat-square&labelColor=343b41"/></picture></td>
+      <td><picture><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/fjourdren/Theatrum?style=flat-square&labelColor=343b41"/></picture></td>
+      </tr>
+  </tbody>
 </table>
 
 ## 📝 Technical Writing & Knowledge Sharing
@@ -109,43 +109,27 @@ I (try) maintaining a technical blog focused on **software engineering best prac
 
 <!-- Statistics -->
 <h2>📊 GitHub Analytics & Contributions</h2>
-<picture>
-<img width="100%" height="auto" src="profile-summary-card-output/github/0-profile-details.svg"/>
-</picture>
+<div align="center" style="margin-bottom: 40px">
+  <picture>
+    <img width="80%" height="auto" src="profile-summary-card-output/github/0-profile-details.svg"/>
+  </picture>
+</div>
 
 <br/>
 
-<p align="center">
-<picture style="margin-bottom: 40px">
-<img width="80%" height="auto" src="profile-3d-contrib/profile-season-animate.svg"/>
-</picture>
-</p>
+<div align="center" style="margin-bottom: 40px">
+  <picture>
+    <img width="80%" height="auto" src="profile-3d-contrib/profile-season-animate.svg"/>
+  </picture>
+</div>
 
 <br/>
 
 <div align="center">
   <picture>
-    <img width="50%" height="auto" src="imgs/github-metrics.svg"/>
+    <img width="80%" height="auto" src="imgs/github-metrics.svg"/>
   </picture>
 </div>
-
-## ⚡ Recent Activity
-
-<ul>
-<!--START_SECTION:activity-->
-1. ❌ Merged PR [#1](undefined) in [fjourdren/VPS-Setup-Ansible](https://github.com/fjourdren/VPS-Setup-Ansible)
-<!--END_SECTION:activity-->
-</ul>
-
-## 🤝 Open to Opportunities
-
-I'm passionate about **open-source collaboration** and **knowledge sharing**. While my current commitments limit my contribution time, I actively engage with the developer community and welcome collaboration on innovative projects.
-
-### **What I'm Looking For**
-- **Full-Stack Development** positions requiring end-to-end expertise
-- **Architecture & System Design** challenges
-- **Cloud & DevOps** focused opportunities
-- **Experienced Software Engineer** roles with technical leadership opportunities
 
 ## 📫 Let's Connect
 
