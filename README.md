@@ -8,7 +8,7 @@
     <img width="25%" height="auto" src="profile-summary-card-output/github/3-stats.svg"/>
   </picture>
 </div>
-
+<br/>
 
 <!-- Connect with me -->
 <p align="center">
@@ -125,7 +125,7 @@ I (try) maintaining a technical blog focused on **software engineering best prac
 
 <p align="center">
 <picture>
-<img width="100%" height="auto" src="imgs/github-metrics.svg"/>
+<img width="80%" height="auto" src="imgs/github-metrics.svg"/>
 </picture>
 </p>
 
