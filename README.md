@@ -17,7 +17,7 @@
 
 ## 🎯 Professional Summary
 
-Software Engineer with a **product and systems architecture mindset**. I focus on maintainable system design that **scales sustainably** and **supports automated delivery**, while keeping a pragmatic view on business constraints and system evolution.
+Software Engineer, Lead Tech, and Solution Architect, operating **end-to-end** from **system design to production**, shaping **architectural decisions**, **leading technical teams**, and ensuring **long-term scalability, performance, and maintainability** of complex systems. I focus on **durable system design** that **scales sustainably** and **enables automated delivery**, while maintaining a **pragmatic balance between business constraints and continuous system evolution**.
 
 <table align="center">
   <thead align="center">
