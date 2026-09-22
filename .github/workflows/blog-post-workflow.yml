@@ -14,7 +14,7 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://fjourdren.com/feed.xml" # can take a list of feeds with ","
+          feed_list: "https://fjourdren.com/index.xml" # can take a list of feeds with ","
           disable_sort: true # disabled because my feed doesn't have response->item->pubDate
           remove_duplicates: true
           template: '<li><a href="$url">$title</a></li>'
