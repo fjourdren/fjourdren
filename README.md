@@ -55,11 +55,8 @@ Software Engineer, Lead Tech, and Solution Architect, operating **end-to-end** f
 I (try) maintaining a technical blog focused on **software engineering best practices**, **system design patterns**, and **emerging technologies**. My articles provide practical insights into real-world challenges and architectural decisions.
 
 ### **Recent Articles**
-- [Installation de devstack](https://fjourdren.com/installation-de-devstack)
-- [Réaliser une API REST](https://fjourdren.com/Realiser-API-REST)
-- [Déploiement continu et automatique avec Docker et Jenkins](https://fjourdren.com/deploiement-continu-et-automatique-avec-docker-et-Jenkins)
-- [Rappel sur la répartition de charge](https://fjourdren.com/rappel-sur-la-repartition-de-charge)
-- [Installation de Jenkins](https://fjourdren.com/installation-de-jenkins)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 📖 **Read more :** [fjourdren.com](https://fjourdren.com)
 
