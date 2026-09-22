@@ -55,8 +55,7 @@ Software Engineer, Lead Tech, and Solution Architect, operating **end-to-end** f
 I (try) maintaining a technical blog focused on **software engineering best practices**, **system design patterns**, and **emerging technologies**. My articles provide practical insights into real-world challenges and architectural decisions.
 
 ### **Recent Articles**
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><li><a href="https://fjourdren.com/posts/https-letsencrypt-dns01-traefik-cloudflare-single-node/">HTTPS with Let&#39;s Encrypt, Traefik and Cloudflare on a multi-domain Kubernetes cluster</a></li><li><a href="https://fjourdren.com/posts/tailscale-local-homelab/">Tailscale on a Local Kubernetes Homelab</a></li><li><a href="https://fjourdren.com/posts/how-i-migrated-an-untested-codebase-with-an-ai-test-harness/">How I Migrated an Untested Codebase with Loops and an AI Harness</a></li><li><a href="https://fjourdren.com/posts/installing-devstack/">Installing DevStack</a></li><li><a href="https://fjourdren.com/posts/building-a-rest-api/">Building a REST API</a></li><!-- BLOG-POST-LIST:END -->
 
 📖 **Read more :** [fjourdren.com](https://fjourdren.com)
 
