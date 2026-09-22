@@ -17,4 +17,4 @@ jobs:
           feed_list: "https://fjourdren.com/index.xml" # can take a list of feeds with ","
           disable_sort: true # disabled because my feed doesn't have response->item->pubDate
           remove_duplicates: true
-          template: '- [$title]($url)$newline'
+          template: '$newline- [$title]($url)'
