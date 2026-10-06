@@ -56,11 +56,11 @@ I (try) maintaining a technical blog focused on **software engineering best prac
 
 ### **Recent Articles**
 <!-- BLOG-POST-LIST:START -->
+- [How I Ran Public and Private Services on a Single Kubernetes Node](https://fjourdren.com/posts/public-private-kubernetes-single-node/)
 - [HTTPS with Let&#39;s Encrypt, Traefik and Cloudflare on a multi-domain Kubernetes cluster](https://fjourdren.com/posts/https-letsencrypt-dns01-traefik-cloudflare-single-node/)
 - [Tailscale on a Local Kubernetes Homelab](https://fjourdren.com/posts/tailscale-local-homelab/)
 - [How I Migrated an Untested Codebase with Loops and an AI Harness](https://fjourdren.com/posts/how-i-migrated-an-untested-codebase-with-an-ai-test-harness/)
-- [Installing DevStack](https://fjourdren.com/posts/installing-devstack/)
-- [Building a REST API](https://fjourdren.com/posts/building-a-rest-api/)<!-- BLOG-POST-LIST:END -->
+- [Installing DevStack](https://fjourdren.com/posts/installing-devstack/)<!-- BLOG-POST-LIST:END -->
 
 📖 **Read more :** [fjourdren.com](https://fjourdren.com)
 
